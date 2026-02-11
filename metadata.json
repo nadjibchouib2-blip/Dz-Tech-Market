@@ -1,0 +1,8 @@
+
+{
+  "name": "Dz-Tech Market",
+  "description": "A premium Algerian marketplace for new electronic products, featuring secure Algeria Post payments, multi-language support (AR/FR/EN), and a robust admin control panel.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
